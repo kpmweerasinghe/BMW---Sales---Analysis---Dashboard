@@ -21,7 +21,7 @@ This Power BI project analyzes BMW sales performance across different models, re
 
 ## Dataset Access
 
-Click the **ℹ️ (Info)** icon within the dashboard to view the dataset and additional project information.
+Click the **ℹ️ (Info)** icon within the dashboard to view the dataset.
 
 ## Tools Used
 
